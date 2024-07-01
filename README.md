@@ -45,19 +45,19 @@ pip install -r requirements.txt
 
 ## Usage
 
- 1.Run the Streamlit application:
+ 1. **Run the Streamlit application:**
 
 ```bash
   streamlit run app.py
 ```
 
-2.Open your web browser and go to http://localhost:8501 to access the application.
+2. **Open your web browser** and go to http://localhost:8501 to access the application.
 
-3.Upload an invoice image: Click on "Choose an image of the invoice..." and select your image file.
+3. **Upload an invoice image:** Click on "Choose an image of the invoice..." and select your image file.
 
-4.Input a prompt: Provide a prompt for the model to understand what details to extract from the invoice.
+4. **Input a prompt:** Provide a prompt for the model to understand what details to extract from the invoice.
 
-5.Submit: Click on the "Tell me about the invoice" button to get the response from the model.
+5. **Submit:** Click on the "Tell me about the invoice" button to get the response from the model.
 
 
 
